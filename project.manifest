@@ -1,7 +1,7 @@
 {
-    "packageUrl" : "http://ovdvg37pu.bkt.clouddn.com/Image/", 
-    "remoteManifestUrl" : "http://ovdvg37pu.bkt.clouddn.com/res/project.manifest", 
-    "remoteVersionUrl" : "http://ovdvg37pu.bkt.clouddn.com/res/version.manifest", 
+     "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/project.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/version.manife
     "version" : "1.0.2",
     "engineVersion" : "3.3",
     "assets" : {

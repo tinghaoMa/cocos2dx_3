@@ -10,6 +10,7 @@
         }
     },
     "searchPaths" : [
-        "res/"
+        "/data/data/com.sohu.video.ddz/files/AssetsManagerTest/res/"
     ]
+
 }

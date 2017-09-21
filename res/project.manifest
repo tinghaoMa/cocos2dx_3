@@ -5,7 +5,7 @@
     "version" : "1.0.2",
     "engineVersion" : "3.3",
     "assets" : {
-        "res/Images/meinv.png" : {
+        "Images/meinv.png" : {
             "md5" : "56e54aa861581798415a689ccab87e11"
         }
     },

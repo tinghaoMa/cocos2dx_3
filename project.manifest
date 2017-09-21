@@ -6,7 +6,7 @@
     "engineVersion" : "3.3",
     "assets" : {
         "res/meinv.png" : {
-            "md5" : "56e54aa861581798415a689ccab87e11",
+            "md5" : "56e54aa861581798415a689ccab87e11"
         }
     },
     "searchPaths" : [

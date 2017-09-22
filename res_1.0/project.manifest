@@ -8,7 +8,7 @@
         "Images/meinv.png" : {
             "md5" : "ec542ea2ed41c23960e515aefb383491"
         },
-        "src/HallScene.js" : {
+        "src/ui/HallScene.js" : {
             "md5" : "08f7dd7e540fc2cc566b386a942c70bc"
         }
     },

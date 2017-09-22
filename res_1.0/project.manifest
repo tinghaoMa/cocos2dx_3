@@ -2,7 +2,7 @@
     "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/",
     "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/project.manifest",
     "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/version.manifest",
-    "version" : "1.0.5",
+    "version" : "1.0.7",
     "engineVersion" : "3.3",
     "assets" : {
         "Images/meinv.png" : {

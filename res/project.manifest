@@ -10,7 +10,7 @@
         },
          "cocos2dx_update.zip" : {
             "md5" : "b48346ded889ed12e9b1305cd1dbc059", 
-            "compressed" : false 
+            "compressed" : true 
         }
     },
     "searchPaths" : [

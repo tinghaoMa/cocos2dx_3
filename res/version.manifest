@@ -1,7 +1,7 @@
 {
-    "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/",
-    "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/project.manifest",
-    "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/version.manifest",
-    "version" : "1.0.2",
+    "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/project.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/version.manifest",
+    "version" : "1.0.5",
     "engineVersion" : "3.3"
 }

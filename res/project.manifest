@@ -1,20 +1,15 @@
 {
-     "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/",
-    "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/project.manifest",
-    "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res/version.manifest",
-    "version" : "1.0.2",
+    "packageUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/project.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/tinghaoMa/cocos2dx_3/master/res_1.0/version.manifest",
+    "version" : "1.0.5",
     "engineVersion" : "3.3",
     "assets" : {
         "Images/meinv.png" : {
             "md5" : "56e54aa861581798415a689ccab87e11"
-        },
-         "cocos2dx_update.zip" : {
-            "md5" : "b48346ded889ed12e9b1305cd1dbc059", 
-            "compressed" : true 
         }
     },
     "searchPaths" : [
-        "/data/data/com.sohu.video.ddz/files/AssetsManagerTest/res/"
     ]
 
 }

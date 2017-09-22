@@ -7,6 +7,10 @@
     "assets" : {
         "Images/meinv.png" : {
             "md5" : "56e54aa861581798415a689ccab87e11"
+        },
+         "cocos2dx_update.zip" : {
+            "md5" : "b48346ded889ed12e9b1305cd1dbc059", 
+            "compressed" : true 
         }
     },
     "searchPaths" : [
